@@ -9,7 +9,7 @@
     "easy-table": "^1.1.1",
     "fs": "0.0.1-security",
     "inquirer": "^6.4.1",
-    "mysql": "^2.17.1",
+    "mysql": "^2.18.0",
     "require": "^2.4.20"
   },
   "devDependencies": {},
